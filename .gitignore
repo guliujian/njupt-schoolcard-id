@@ -1,0 +1,42 @@
+
+#********** node template********** 
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+
+node_modules/*
+ 
+
+#********** ruby template********** 
+
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
+ 
