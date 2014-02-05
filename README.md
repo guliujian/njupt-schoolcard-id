@@ -9,7 +9,7 @@ ruby app.rb
 
 然后目录下面就有一个data.json的文件了。
 
-
+```javascript
 [
   [
     "阿不都克依木·努尔买买提", // 姓名
@@ -26,6 +26,7 @@ ruby app.rb
     "http://my.njupt.edu.cn/ccs/main/searchUser.do?page=5948"
   ]
 ]
+```
 
 
 实际运行的话会有几千个HTTP请求和解析HTML的过程，会持续一段时间。
